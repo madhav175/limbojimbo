@@ -1,2 +1,2 @@
-# limbojimbo
-# limbojimbo
+We have created an Android app that recognizes surface gestures as the focal point of game play. The game centers around a wizard who is stuck in Limbo and must fight off adversaries in order to successfully escape. The trick is that each of the monsters attacking him have some associated patterns with them and Jimbo has to draw those in order to survive. We have implemented a pdollar recognizer to recognize surface gestures for this application.
+
